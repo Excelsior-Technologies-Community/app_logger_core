@@ -43,7 +43,7 @@ Add this to `pubspec.yaml`:
 ```
 app_logger_code:
 git:
-url: https://github.com/Excelsior-Technologies-Community/app_logger_core/edit/stage
+url: https://github.com/Excelsior-Technologies-Community/app_logger_core/tree/stage
 ```
 then run:
 ```
