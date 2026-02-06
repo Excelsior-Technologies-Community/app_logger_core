@@ -22,17 +22,17 @@ It helps developers quickly understand info, warning, error, success, and debug 
 
 ## Preview (Terminal)
 
-<img width="1919" height="1021" alt="Screenshot 2026-02-06 150724" src="https://github.com/user-attachments/assets/aa5c21e8-f947-4901-95db-1dedf773aba2" />
 
 
 
-```
+
+
 ℹ️ [MAIN] Application started
 ✅ [AUTH] Login successful
 ⚠️ [API] Slow response
 ❌ [API] Request failed
 🐛 [DEBUG] Button clicked
-```
+
 
 -------------------------------------------------------
 
